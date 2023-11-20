@@ -36,6 +36,6 @@ If you're interested in collaborating or have any exciting projects in mind, ple
 
 ## Let's Connect
 Connect with me on LinkedIn or follow me on Twitter to stay updated on my latest projects and GitHub contributions!
-- [LinkedIn](https://www.linkedin.com/in/suitithub/](https://www.linkedin.com/in/christian-dieckmann-83076224a)
+- [LinkedIn](https://www.linkedin.com/in/suitithub/)
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you!
