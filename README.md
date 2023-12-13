@@ -22,9 +22,8 @@ Feel free to explore these repositories to get a glimpse of my work.
 
 ## GitHub Stats
 Take a look at my GitHub stats and language usage:
-- ![SuitIThub's Stats](https://github-readme-stats.vercel.app/api?username=SuitIThub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-- ![SuitIThub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuitIThub&theme=vue-dark&hide_border=true)
-- ![SuitIThub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuitIThub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![SuitIThub's Stats](https://github-readme-stats.vercel.app/api?username=SuitIThub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![SuitIThub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuitIThub&theme=vue-dark&hide_border=true) ![SuitIThub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuitIThub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact Me
 You can reach out to me via email at [suit.it.pub@gmail.com](mailto:suit.it.pub@gmail.com)
