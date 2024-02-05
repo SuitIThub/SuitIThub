@@ -6,9 +6,9 @@ With over 9 years of coding experience, I now make an apprenticeship in IT after
 
 ## Skills
 Here's an overview of my skills and areas of expertise:
-- Programming languages: C#, Java, ShaderLab, HLSL, HTML
-- Technologies: Unity, .NET, Android Development
-- Tools & Frameworks: Visual Studio, Unity Engine
+- Programming languages: C#, Java, HTML, Python
+- Technologies: Unity, .NET, Android Development, RenPy
+- Tools & Frameworks: Visual Studio, Visual Studio Code, Unity Engine
 
 ## GitHub Activity
 I have a moderate level of GitHub activity with a total of 40 commits across 5 public repositories. My GitHub account, SuitIThub, was created on March 8, 2023, and has been actively updated as recently as November 20, 2023. While most of my contributions are to my own repositories, I aspire to collaborate with others and contribute to open-source projects in the future.
@@ -17,6 +17,7 @@ I have a moderate level of GitHub activity with a total of 40 commits across 5 p
 Here are a few of my best projects on GitHub:
 - [Vanished-World](https://github.com/SuitIThub/Vanished-World): A game development project that explores an immersive virtual world.
 - [NewsScrape](https://github.com/SuitIThub/NewsScrape): A data scraping project focused on aggregating news articles from various sources.
+- [Mind the School](https://github.com/SuIT-pub/Mind-the-School): A RenPy-Management game surrounding the downfall of a failed school
 
 Feel free to explore these repositories to get a glimpse of my work. 
 
