@@ -11,7 +11,7 @@ Here's an overview of my skills and areas of expertise:
 - Tools & Frameworks: Visual Studio, Visual Studio Code, Unity Engine
 
 ## GitHub Activity
-I have a moderate level of GitHub activity with a total of about 500 commits across 10 public repositories. My GitHub account, SuitIThub, was created on March 8, 2023, and has been actively updated as recently as November 20, 2023. While most of my contributions are to my own repositories, I aspire to collaborate with others and contribute to open-source projects in the future.
+I have a moderate level of GitHub activity with a total of about 500 commits across multiple repositories. My GitHub account, SuitIThub, was created on March 8, 2023, and has been actively updated as recently as November 20, 2023. While most of my contributions are to my own repositories, I aspire to collaborate with others and contribute to open-source projects in the future.
 
 ## Repository Highlights
 Here are a few of my best projects on GitHub:
