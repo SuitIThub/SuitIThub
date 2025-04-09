@@ -1,8 +1,8 @@
-# Christian Dieckmann (SuitIThub)
+# I'm Christian Dieckmann (aka SuitIThub)
 Welcome to my GitHub profile! I'm Christian Dieckmann, also known as "SuitIThub". 
 
 ## About Me 
-With over 9 years of coding experience, I now make an apprenticeship in IT after having studied IT at the Gottfried WIlhelm Leibniz University in Hannover, Germany. I currently work as a developer at Heise Medien GmbH & Co. KG. 
+With over 9 years of self-driven coding experience, starting with personal projects before pursuing formal education in computer science, I now make an apprenticeship in IT after having studied IT at the Gottfried Wlhelm Leibniz University in Hannover, Germany. I currently work as a developer at Heise Medien GmbH & Co. KG. 
 
 ## Skills
 Here's an overview of my skills and areas of expertise:
@@ -33,6 +33,7 @@ I am passionate about open-source projects and enjoy collaborating with others. 
 
 ## Interested in Collaborating?
 If you're interested in collaborating or have any exciting projects in mind, please don't hesitate to reach out. I'm open to opportunities and eager to connect with fellow developers.
+I’m currently especially interested in frontend tools, indie game development, and data-driven web apps. But I'm open to explore other projects as well.
 
 ## Let's Connect
 Connect with me on LinkedIn or follow me on Twitter to stay updated on my latest projects and GitHub contributions!
