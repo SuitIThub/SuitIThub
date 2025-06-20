@@ -17,7 +17,7 @@ I have a moderate level of GitHub activity with a total of about 500 commits acr
 Here are a few of my best projects on GitHub:
 - [Vanished-World](https://github.com/SuitIThub/Vanished-World): A game development project that explores an immersive virtual world.
 - [NewsScrape](https://github.com/SuitIThub/NewsScrape): A data scraping project focused on aggregating news articles from various sources.
-- [FileFLow](https://github.com/SuitIThub/FileFlow): A File-Creation-Tracker with Advanced Rule-based Renaming and auto-transfer
+- [FileFlow](https://github.com/SuitIThub/FileFlow): A File-Creation-Tracker with Advanced Rule-based Renaming and auto-transfer
 
 Feel free to explore these repositories to get a glimpse of my work. 
 
